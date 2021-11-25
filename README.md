@@ -85,6 +85,10 @@ Check `config/cors.ts` file and change the function to return false or uncomment
 
 By default, this starter uses Yarn, but this choice is yours. If you'd like to switch to npm, delete the `yarn.lock` file, install the dependencies with `npm install`.
 
+### Removing unwanted dependencies
+
+You don't need to use Lucid? Or maybe you don't need to use Auth? Feel free to remove it! This boilerplate is right before the configuration commands, so any unnecessary code trails won't be left behind.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
