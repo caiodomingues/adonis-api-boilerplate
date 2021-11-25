@@ -1,0 +1,15 @@
+import {{model}} from "App/Models/{{model}}";
+
+export default class {{name}} {
+  public index(data: {{model}}[]) {
+    return data.map((item) => {
+      return this.show(item);
+    });
+  }
+
+  public show(data: {{model}}) {
+    return {
+      id: data.id,
+    };
+  }
+}
