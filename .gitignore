@@ -2,6 +2,7 @@ node_modules
 build
 coverage
 .vscode
+.vs
 .DS_STORE
 .env
 tmp
