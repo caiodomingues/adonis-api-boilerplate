@@ -91,4 +91,4 @@ You don't need to use Lucid? Or maybe you don't need to use Auth? Feel free to r
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more information.
